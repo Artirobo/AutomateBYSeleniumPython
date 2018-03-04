@@ -22,6 +22,7 @@ print(driver.title)
 
 assert "Google" in driver.title
 
+
 #find the element by name  and send the custom message in that field by name
 driver.find_element_by_name("q").send_keys("querrry")     
 

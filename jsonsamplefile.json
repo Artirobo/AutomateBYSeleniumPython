@@ -1,0 +1,23 @@
+{
+    "_comment":"Map is list ",
+    "maps": [
+        {
+            "country": "Nepal",
+            "city": "Kathmandu"
+        },
+        {
+            "country": "UK",
+            "city": "Houston"
+        }
+    ],
+
+    "test": {
+        "unitTestd": "jasmin"
+    },
+
+    "Habbit": "Program",
+    
+    "Hobby": {
+        "badHabbit": "lapwithwork"
+    }
+}

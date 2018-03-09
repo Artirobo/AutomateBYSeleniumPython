@@ -21,3 +21,21 @@ pip install beautifulsoup4
 
 #in linux 
 pip install lxml
+
+
+#open the tab while automate 
+#driver.get("google.com")
+#driver.execute_script("window.open('');")
+#driver.switch_to.window(driver.window_handles[1])
+#driver.get("gmail.com")
+#driver.switch_to.window(driver.window_handles[0])
+
+#install  p2exe file in windows
+# & C:/Python27/python.exe -m  pip install -U py2exe_py2 --user
+
+#in ubuntu 
+#pip install py2exe
+
+#to execute a exe file you have to go to dist folder where you find the exe of your file
+#/dis/finename.exe in  windows
+

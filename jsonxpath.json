@@ -1,0 +1,25 @@
+{
+"1":[
+    {"username":"abc",
+    "password":"def"
+}
+],
+"clickAction":{
+    "loginButton":"Login"
+},
+
+"userdata":[
+    {"usernamedetails":"username",
+    "passworddetails":"your pass"
+}
+],
+"module":{
+    "CAPA":"CAPAs"
+}
+    
+
+
+
+
+
+}
